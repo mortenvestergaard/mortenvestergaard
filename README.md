@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning WEB API's, Angular and C# backend services.
 - 💞️ I’m currently not collaborating on any project.
 - 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/morten-vestergaard-a62391199/
 <!---
 mortenvestergaard/mortenvestergaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
